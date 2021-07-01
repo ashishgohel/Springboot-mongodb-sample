@@ -55,7 +55,7 @@
             - Returns boolean status to notify details.
         
 
-- Things couldn't do due to time constraint:
+- TODO:
     - Environment profiling and fetching data based on it.
     - Test case coverage.
     - Making Makefile to shorten up the process.
@@ -63,7 +63,7 @@
     - Pagination for certain APIs.
     - More comprehensive error handling mechanism
 
-- Additionally, I have implemented:
+- Features:
     - Default caching solution provided by Springboot out of the box.
     - Basic Error handling mechanism.
     - Validation checks on received requests.
